@@ -8,7 +8,7 @@ namespace Consoleapp2
         static void Main(string[] args)
         {
             // Programowanie obiektowe
-            // Object Oriented Programming (OPP)
+            // Object Oriented Programming (OOP)
 
             // - Dziedziczenie
             // - Polimorfizm
